@@ -84,6 +84,7 @@ namespace KHSave.Lib3.Presets
             ["/Game/Levels/bt_DLC/bt_07/bt_07"] = new Map { Name = "Breezy Quarter" },
             ["/Game/Maps/bt_DLC/umap/bt_07/bt_07_CheckMap"] = new Map { Name = "Breezy Quarter (explorable)" },
             ["/Game/Levels/bt_DLC/bt_08/bt_08"] = new Map { Name = "The Stairway to the Sky (ReMind)" },
+            ["/Game/Maps/bt_DLC/umap/bt_08/bt_08_CheckMap"] = new Map { Name = "The Stairway to the Sky (ReMind)(explorable)" },
             ["/Game/Levels/bt/bt_50/bt_50"] = new Map { Name = "Chess room (cutscene)" },
             ["/Game/Maps/bt/umap/bt_50/bt_50"] = new Map { Name = "Chess room (explorable)" },
             ["/Game/Levels/bt_DLC/bt_51/bt_51"] = new Map { Name = "Blank screen" },
